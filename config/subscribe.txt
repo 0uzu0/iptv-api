@@ -1,17 +1,13 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B0202509.m3u
-https://tv.iill.top/m3u/Gather
-https://live.zbds.org/tv/iptv4.m3u
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
-https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
-https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
-https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
-
+https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/user_result.txt
+https://raw.githubusercontent.com/fingersc/iptv-api/refs/heads/master/output/user_result.txt
+https://raw.githubusercontent.com/cyh92/iptv-api-cctv/refs/heads/master/output/cctv.txt
+https://raw.githubusercontent.com/cyh92/iptv-api-weishi/refs/heads/master/output/weishi.txt
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
+https://raw.githubusercontent.com/jadeydi/iptv-api/refs/heads/master/output/result.txt
+https://raw.githubusercontent.com/0610840119/iptv-api/refs/heads/master/output/xp_result.txt
 
 
 [WHITELIST]
