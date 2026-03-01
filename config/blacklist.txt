@@ -2,3 +2,8 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+iptv.catvod.com
+chinamobile.com
+starvod.xyz
+dsk.cc
+xymm.de5.net
