@@ -3,6 +3,13 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/user_result.txt
+https://raw.githubusercontent.com/fingersc/iptv-api/refs/heads/master/output/user_result.txt
+https://raw.githubusercontent.com/cyh92/iptv-api-cctv/refs/heads/master/output/cctv.txt
+https://raw.githubusercontent.com/cyh92/iptv-api-weishi/refs/heads/master/output/weishi.txt
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
+https://raw.githubusercontent.com/jadeydi/iptv-api/refs/heads/master/output/result.txt
+https://raw.githubusercontent.com/0610840119/iptv-api/refs/heads/master/output/xp_result.txt
 
 
 
