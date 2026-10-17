@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/wwz09/IPTV-tv/refs/heads/main/live.txt
 https://raw.githubusercontent.com/n3rddd/collect-tv-txt/refs/heads/main/merged_output.txt
 https://raw.githubusercontent.com/Ethan-Men/Amen-TV/refs/heads/main/merged_output.txt
 https://raw.githubusercontent.com/dogwalkerg/IPTV-collect-tv-txt/refs/heads/main/live.txt
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
 https://guovin.github.io/iptv-api/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 [WHITELIST]
